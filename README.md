@@ -1,7 +1,5 @@
-### Welcome JUWON BAIK GITHUB 🐷 <- Yuhiro
+### Welcome JUWON BAIK GITHUB 
 
-## 유히로가 방문한 GITHUB입니다 🐷
-<a href="https://bj.afreecatv.com/dmstj3715" target="_blank"><img src="https://img.shields.io/badge/유히로 방송국-배경색?style=뱃지모양&logo=로고&logoColor=#50bcdf "/></a> <a href="https://www.instagram.com/yuhiro0o">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://https://www.instagram.com/yuhiro0o/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
