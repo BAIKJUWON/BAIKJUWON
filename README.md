@@ -8,6 +8,8 @@
 ## 📧 이메일
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bjw04ys@naver.com)
 
+!(https://github-readme-stats.vercel.app/api?username=BAIKJUWON&show_icons=true)
+
 
 
 
