@@ -10,7 +10,8 @@
 
 
 ![BAIKJUWON's github stats](https://github-readme-stats.vercel.app/api?username=BAIKJUWON&show_icons=true)
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON)]
+
+![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON)
 
 
 
