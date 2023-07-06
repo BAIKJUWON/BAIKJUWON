@@ -1,4 +1,4 @@
-### Welcome JUWON BAIK GITHUB 
+### JUWON BAIK (COMPUTER EDUCATION)
 
 
 </a>
