@@ -11,9 +11,10 @@ bjw04ys@naver.com
 
 ![BAIKJUWON's github stats](https://github-readme-stats.vercel.app/api?username=BAIKJUWON&show_icons=true)
 
-![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON)
+![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON) [![](https://banner.codetree.ai/v1/banner/qorwndnjs04)](https://www.codetree.ai/profiles/qorwndnjs04)
 
-[![](https://banner.codetree.ai/v1/banner/qorwndnjs04)](https://www.codetree.ai/profiles/qorwndnjs04)
+
+
 
 
 
