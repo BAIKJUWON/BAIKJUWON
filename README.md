@@ -24,7 +24,7 @@
 </a>
 
 ## 📧 E-mail
-bjw04ys@naver.com
+### bjw04ys@naver.com
 
 
 
