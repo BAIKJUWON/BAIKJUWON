@@ -15,7 +15,8 @@
 - [2024 영남권 연합 해커톤(인기상)](https://github.com/BAIKJUWON/Anu-Dong-a-Hackerton)
 
 ## 이력서
--[노션](https://nebula-samba-a5b.notion.site/BAIK-JUWON-385ae9dfa1f14ab3b71b0e0cd21c99fd)
+- [노션](https://nebula-samba-a5b.notion.site/BAIK-JUWON-385ae9dfa1f14ab3b71b0e0cd21c99fd)
+  
 ## 이메일
     bjw04ys@naver.com
     bjw04ys@gmail.com
