@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"> 
 </a>
 
-## 🎄 CodeTree(School)
-[![](https://banner.codetree.ai/v1/banner/qorwndnjs04)](https://www.codetree.ai/profiles/qorwndnjs04)
-</a>
+## 💻 Workspace Specs
+<a href="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
+
 
 ## 📙 my favorite language
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON)
