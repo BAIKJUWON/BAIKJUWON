@@ -21,14 +21,9 @@
 <a href="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
 
-
 ## 📙 my favorite language
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON)
 </a>
-
-## Top
-[![JUWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUWONBAIK)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 📧 Content
 <a href="https://www.instagram.com/bjww_sss109883"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:bjw04ys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
