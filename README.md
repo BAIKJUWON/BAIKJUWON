@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WElCOME+MY+GITHUB)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://discord.gg/sfjT3w7wgx" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+<br>
+<a href="https://discord.gg/sfjT3w7wgx" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+<img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+
 
 </a>
 
