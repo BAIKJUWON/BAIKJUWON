@@ -16,6 +16,11 @@
 <img src="https://img.shields.io/badge/Intel-Core_i3_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intel-HD_Graphics2000-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 
+## Samsung Desktop
+<img src="https://img.shields.io/badge/Intel-Core_i3_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+
+
 # Andong System
 
 ## desktop1
