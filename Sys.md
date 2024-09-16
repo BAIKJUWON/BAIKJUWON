@@ -20,9 +20,17 @@
 <img src="https://img.shields.io/badge/Intel-Core_i3_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
-
+<br>
 # Andong System
 
 ## desktop1
 <img src="https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intel-HD_Graphics4400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<br>
+
+# Labtop
+
+## MAIN Labtop
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro13_tochBar_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
+
