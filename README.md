@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WElCOME+MY+GITHUB)](https://git.io/typing-svg)
 
-  <a href="https://discord.gg/sfjT3w7wgx" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://github.com/BAIKJUWON/BAIKJUWON/blob/main/discord.svg"/></a>
+<a href="https://discord.gg/sfjT3w7wgx" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+  <img src="https://github.com/BAIKJUWON/BAIKJUWON/blob/main/discord.svg" style="width: 50px; height: 50px;" alt="Discord Logo"/>
+</a>
+
 
 ## 💻 Education
 <img src="https://img.shields.io/badge/c-A8B9CCB?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
