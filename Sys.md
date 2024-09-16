@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows-7&logoColor=white"/></a>
 
 ## Samsung Desktop
-<img src="https://img.shields.io/badge/Intel-Core_i3_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intel-Core_i5_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
