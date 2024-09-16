@@ -7,7 +7,7 @@
 
 ## SUB PC (Ubuntu & windows)
 <img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/NVIDIA-GTX650Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GTX650Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX650Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 ## NAS SYSTEM
 <img src="https://img.shields.io/badge/Intel-Core_i3_530-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
@@ -18,7 +18,7 @@
 
 ## Samsung Desktop
 <img src="https://img.shields.io/badge/Intel-Core_i3_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
 
 # Andong System
