@@ -33,7 +33,7 @@
 ## MAIN Labtop
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_13_TochBar_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
 
-##Sub Labtop
-<img src="https://img.shields.io/badge/Zenbook_M513U-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+## Sub Labtop
+<img src="https://img.shields.io/badge/ASUS-Zenbook_M513U-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 
 
