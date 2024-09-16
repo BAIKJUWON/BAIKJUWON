@@ -22,7 +22,8 @@
 ## 💻 My System
 <a href="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"><img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a> <img src="https://img.shields.io/badge/Windows-ASUS_Zenbook-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
 
 ## 📙 my favorite language
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON)
