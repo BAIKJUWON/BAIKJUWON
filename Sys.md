@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Intel-Core_i3_530-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 
 ## Windows 7 System
-<img src="https://img.shields.io/badge/Intel-Core_i3_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intel-HD_Graphics2000-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows-7&logoColor=white"/></a>
 
