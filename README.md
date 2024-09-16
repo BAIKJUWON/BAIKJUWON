@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WElCOME+MY+GITHUB)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JUWON<br>BAIK)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=JUWONBAIK)
 
 
 
