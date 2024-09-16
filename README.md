@@ -28,8 +28,9 @@
 [![JUWON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUWONBAIK)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📧 E-mail
-### bjw04ys@naver.com
+## 📧 Content
+<a href="https://www.instagram.com/bjww_sss109883"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
 
 
