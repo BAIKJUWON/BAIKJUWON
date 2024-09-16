@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WElCOME+MY+GITHUB)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=<div align="center">
+JUWON BAIK
+</div>)
 
 
 ## 💻 Education
