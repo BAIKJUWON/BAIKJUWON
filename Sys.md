@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 ## Music PC
 <img src="https://img.shields.io/badge/Intel-Core_i3_6100-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/NVIDIA-GTX760-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GTX760-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX760-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 ## Windows 7 System
 <img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intel-HD_Graphics2000-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
