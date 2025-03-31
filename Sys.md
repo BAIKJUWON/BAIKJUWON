@@ -35,6 +35,7 @@
 
 ## MAIN Labtop
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_13_TouchBar_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apple-MacBook_Air_13_2017-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
 
 ## Sub Labtop
 <img src="https://img.shields.io/badge/ASUS-Zenbook_M513U-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> <img src="https://img.shields.io/badge/LG-Ultrabook_GT-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> <img src="https://img.shields.io/badge/LG-TebBook-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> <img src="https://img.shields.io/badge/Samsung-SENS_P330-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> <img src="https://img.shields.io/badge/Samsung-SENS_X170-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
