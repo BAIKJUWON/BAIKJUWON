@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 ## SUB PC (Ubuntu & windows)
 <img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-ㄱRTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 ## Music PC
