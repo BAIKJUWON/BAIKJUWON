@@ -1,5 +1,5 @@
 
-#MAIN PC
+# MAIN PC
 
 ## Gaming Pc
 <a href="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
