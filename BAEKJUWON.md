@@ -10,8 +10,9 @@
 ### 국립안동대학교(국립경국대학교)
 
 - 컴퓨터교육과
-- 학부연구생(국제공동연구)
-- 2024년 COMEDUWEB 동아리장
+- 학부연구생(국제공동연구) 2023 ~ 2024년(임베디드)
+- 2024년 COMEDUWEB 동아리장 (WEB & EDUTECH)
+- 2025년 COMEDUWEB 부동아리장 (WEB & EDUTECH)
 
 ---
 
@@ -36,9 +37,9 @@
 
 ## 📧 E-mail
 
-- bjw04ys@baikjwuon.site
-- 20230427@student.anu.ac.kr
-- bjw04ys@naver.com
+- bjw04ys@baikjwuon.site (문의)
+- 20230427@student.anu.ac.kr (학교 관련 문의)
+- bjw04ys@naver.com (개인적 문의)
 
 ---
 
@@ -163,4 +164,12 @@
 
 - [ ] 컴퓨터구조
 - [ ] 알고리즘
-- [ ] JAVA
+- [ ] JAVA (프로그래밍 - 2)
+
+### 3-1
+
+- [ ] 운영체제
+- [ ] 인공지능
+- [ ] 데이터분석
+- [ ] 데이터베이스
+- [ ] 데이터통신
