@@ -8,29 +8,35 @@
 
 # Daegu System
 
-## SUB PC (Ubuntu & windows)
-<img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+## SUB PC (CODING PC)
+<img src="https://img.shields.io/badge/Intel-Core_i5_4670-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-ㄱRTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+
+## SUB PC (Ubuntu)
+<img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-ㄱGTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX 106076B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
+
 ## Music PC
 <img src="https://img.shields.io/badge/Intel-Core_i3_6100-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-GTX650ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX650ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
+
 ## Windows 7 System
 <img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intel-HD_Graphics2000-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows-7&logoColor=white"/></a>
 
-## Samsung Desktop
+## Windows XP 
 <img src="https://img.shields.io/badge/Intel-Core_i5_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GT520-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
 ## Samsung 4th System
-<img src="https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intel-Core_i3_4130-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intel-HD_Graphics4400-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows_11-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
 # Labtop
 
