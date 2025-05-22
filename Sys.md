@@ -15,7 +15,7 @@
 
 ## SUB PC (Ubuntu)
 <img src="https://img.shields.io/badge/Intel-Core_i5_2500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/NVIDIA-ㄱGTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX 106076B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
 ## Music PC
