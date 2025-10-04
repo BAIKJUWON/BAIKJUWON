@@ -5,8 +5,8 @@
 
 
 ## 💻 major, Team
-**College of Education / COMPUTER EDUCATION (2023~)**
-**Technical High School / Department of Electronics(2020~2023)**
+**College of Education / COMPUTER EDUCATION (2023~)**<br>
+**Technical High School / Department of Electronics(2020~2023)**<br>
 **Project J&K(2020~)**
 
 ## 🚀 Skills
