@@ -4,10 +4,19 @@
 
 
 
-## 💻 major, Team
+## 💻 major
 **College of Education / COMPUTER EDUCATION (2023~)**<br>
 **Technical High School / Department of Electronics(2020~2023)**<br>
-**Project J&K(2020~)**
+
+## 💻 Field of study
+<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
+
+
+
 
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
