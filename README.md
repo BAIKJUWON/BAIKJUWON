@@ -9,11 +9,7 @@
 **Technical High School / Department of Electronics(2020~2023)**<br>
 
 ## 💻 Field of study
-<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Spring&logoColor=white">
 
 
 
