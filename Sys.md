@@ -2,9 +2,9 @@
 # MAIN PC
 
 ## Gaming Pc
-<a href="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/AMD-Ryzen_9_7950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"><img src="https://img.shields.io/badge/AMD-Ryzen_9_7950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows_10-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows_11-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
 # Daegu System
 
