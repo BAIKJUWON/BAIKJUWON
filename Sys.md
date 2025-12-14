@@ -20,7 +20,7 @@
 
 ## SUB PC(Linux System)
 <img src="https://img.shields.io/badge/Intel-Core_i5_4690-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AMD-007396?style=for-the-badge&logo=OpenJDK&logoColor=#ED1C24">
+
 
 
 
