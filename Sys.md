@@ -10,11 +10,12 @@
 
 ## SUB PC (Programming)
 <img src="https://img.shields.io/badge/Intel-Core_i5_8500-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
-<a href="https://img.shields.io/badge/NVIDIA-ㄱGTX 1070 SLI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX 1070 SLI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GTX 1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX 1080ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_11-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
 ## SUB PC (embedded)
-<img src="https://img.shields.io/badge/Intel-Core_i5_4560-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intel-Core_i5_6600-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a href="https://img.shields.io/badge/NVIDIA-GTX 1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/NVIDIA-GTX 1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows_11-003399?style=for-the-badge&logo=windows-10&logoColor=white"/></a>
 
 
