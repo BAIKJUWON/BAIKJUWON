@@ -85,7 +85,7 @@
 | Processor | Apple M1            |                                      |
 | RAM       | 16GB                |                                      |
 | SSD       | 512GB               |                                      |
-| Display   | 제품명                 | MacBook Pro 1313-inch Retina Display |
+| Display   | 제품명                 | MacBook Pro 13-inch Retina Display |
 | Interface | Touch Bar           |                                      |
 | OS        | macOS               |                                      |
 
