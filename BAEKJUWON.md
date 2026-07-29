@@ -12,9 +12,9 @@
 
 <br>
 
-[![깃허브](https://img.shields.io/badge/GitHub-BAIKJUWON-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON)
-[![웹사이트](https://img.shields.io/badge/Website-baikjuwon.com-1428A0?style=for-the-badge\&logo=googlechrome\&logoColor=white)](http://baikjuwon.com/)
-[![이메일](https://img.shields.io/badge/Gmail-baik040609%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:baik040609@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BAIKJUWON-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON)
+[![Website](https://img.shields.io/badge/Website-baikjuwon.com-1428A0?style=for-the-badge\&logo=googlechrome\&logoColor=white)](http://baikjuwon.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-baik040609%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:baik040609@gmail.com)
 
 </div>
 
@@ -174,7 +174,7 @@
 
 ## 🚀 주요 프로젝트
 
-### ESP32 스마트홈 시스템
+### [🏠 ESP32 스마트홈 시스템](https://github.com/BAIKJUWON/AnuHackerton)
 
 ESP32의 무선 통신 기능을 활용해
 웹에서 장치 상태를 확인하고 제어할 수 있는 시스템을 구현했습니다.
@@ -187,9 +187,11 @@ ESP32의 무선 통신 기능을 활용해
 
 `ESP32` `C++` `웹 서버` `장치 제어`
 
+[![저장소 보기](https://img.shields.io/badge/GitHub-저장소%20보기-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON/AnuHackerton)
+
 ---
 
-### 온습도 기반 자동 제어 시스템
+### [🌡️ 온습도 기반 자동 제어 시스템](https://github.com/BAIKJUWON/EM_ANU_project_Summer-Hate)
 
 ESP8266과 온습도 센서를 활용해 환경 데이터를 측정하고
 조건에 따라 팬과 서보모터를 자동으로 제어했습니다.
@@ -202,9 +204,11 @@ ESP8266과 온습도 센서를 활용해 환경 데이터를 측정하고
 
 `ESP8266` `C++` `DHT11` `Firebase`
 
+[![저장소 보기](https://img.shields.io/badge/GitHub-저장소%20보기-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON/EM_ANU_project_Summer-Hate)
+
 ---
 
-### 출입 상태 감지 시스템
+### [🚪 출입 상태 감지 시스템](https://github.com/BAIKJUWON/codefair2019)
 
 문 열림과 닫힘 상태를 감지하고
 발생 시간을 기록할 수 있는 출입 감지 시스템을 개발했습니다.
@@ -215,26 +219,28 @@ ESP8266과 온습도 센서를 활용해 환경 데이터를 측정하고
 * 원격 상태 확인 기능 구현
 * 센서 오작동 방지를 위한 조건 처리
 
-`센서` `사물인터넷` `데이터 기록`
+`ESP8266` `센서` `사물인터넷` `데이터 기록`
+
+[![저장소 보기](https://img.shields.io/badge/GitHub-저장소%20보기-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON/codefair2019)
 
 ---
 
-### ArduCAM 카메라 연동 시스템
+### 📷 Raspberry Pi Pico·Arducam 카메라 연동 시스템
 
-마이크로컨트롤러와 카메라 모듈을 연결해
-사진을 촬영하고 데이터를 처리하는 기능을 구현했습니다.
+라즈베리파이 피코와 Arducam 카메라 모듈을 연결해
+사진을 촬영하고 이미지 데이터를 처리하는 기능을 구현했습니다.
 
-* ESP8266과 ArduCAM 연결
-* 카메라 모듈 제어
-* 이미지 촬영 및 데이터 저장
-* 카메라 레지스터 확인
-* 라이브러리 호환성 문제 분석
+* Raspberry Pi Pico와 Arducam 카메라 모듈 연결
+* 직렬 주변기기 인터페이스 기반 카메라 통신
+* 카메라 레지스터 설정 및 상태 확인
+* 이미지 촬영 및 데이터 처리
+* 라이브러리와 펌웨어 호환성 문제 분석
 
-`ESP8266` `ArduCAM` `통신` `카메라 제어`
+`Raspberry Pi Pico` `Arducam` `C/C++` `SPI`
 
 ---
 
-### C 언어 코드 분석 웹 서비스
+### [🔐 C 언어 코드 분석 웹 서비스](https://github.com/BAIKJUWON/Anu-Dong-a-Hackerton)
 
 사용자가 입력한 C 언어 코드를 분석해
 취약점과 개선 방향을 제공하는 웹 서비스를 개발했습니다.
@@ -246,6 +252,8 @@ ESP8266과 온습도 센서를 활용해 환경 데이터를 측정하고
 * 대학 연합 해커톤 인기상 수상
 
 `C` `Python` `Flask` `코드 분석`
+
+[![저장소 보기](https://img.shields.io/badge/GitHub-저장소%20보기-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON/Anu-Dong-a-Hackerton)
 
 ---
 
@@ -323,10 +331,10 @@ STM32 기반 마이크로컨트롤러 개발
 
 <div align="center">
 
-[![깃허브](https://img.shields.io/badge/GitHub-BAIKJUWON-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON)
-[![이메일](https://img.shields.io/badge/Gmail-baik040609%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:baik040609@gmail.com)
-![카카오톡](https://img.shields.io/badge/KakaoTalk-bjww-FFCD00?style=for-the-badge\&logo=kakaotalk\&logoColor=000000)
-[![웹사이트](https://img.shields.io/badge/Website-baikjuwon.com-1428A0?style=for-the-badge\&logo=googlechrome\&logoColor=white)](http://baikjuwon.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-BAIKJUWON-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BAIKJUWON)
+[![Gmail](https://img.shields.io/badge/Gmail-baik040609%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:baik040609@gmail.com)
+![KakaoTalk](https://img.shields.io/badge/KakaoTalk-bjww-FFCD00?style=for-the-badge\&logo=kakaotalk\&logoColor=000000)
+[![Website](https://img.shields.io/badge/Website-baikjuwon.com-1428A0?style=for-the-badge\&logo=googlechrome\&logoColor=white)](http://baikjuwon.com/)
 
 <br><br>
 
