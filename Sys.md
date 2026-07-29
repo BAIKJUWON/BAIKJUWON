@@ -100,7 +100,7 @@
 | 4th Gen System | Core i5-4690      | 16GB DDR3 | Radeon RX 480        | M.2 256GB     |
 | 3rd Gen System | Core i5-3470      | 16GB DDR3 | GTX 960              | SanDisk 120GB |
 | LGA 775 System | Core 2 Quad Q9550 |  4GB DDR3 | GT 520               | -             |
-| LG gram 16     | 16Z90SU-GRF6K     |     -     | -                    | -             |
+| LG gram 16     | 16Z90SU-GRF6K     | 24GB DDR5 | intel graphics             |
 | MacBook Pro    | Apple M1          |    16GB   | Apple Integrated GPU | 512GB         |
 
 ---
