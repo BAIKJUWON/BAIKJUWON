@@ -90,7 +90,7 @@
 | **RAM** | Samsung DDR3 4GB × 4 · **총 16GB** |
 | **GPU** | EMTEK GeForce GTX 960 |
 | **SSD** | SanDisk SSD 120GB |
-| **OS** | 미기재 |
+| **OS** | Windows 11 |
 
 ---
 
@@ -112,7 +112,7 @@
 | **메인보드** | Samsung Intel G41 Express Mainboard |
 | **RAM** | Samsung DDR3 2GB × 2 · **총 4GB** |
 | **GPU** | NVIDIA GeForce GT 520 |
-| **SSD** | 없음 |
+| **SSD** | 리뷰안 SSD 120GB |
 
 ---
 
