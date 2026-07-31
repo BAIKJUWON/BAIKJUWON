@@ -15,9 +15,9 @@
 | **4세대 시스템 Ⅱ**<br>내장 그래픽 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core i5-4670**<br>4세대 · Haswell | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel HD Graphics 4600**<br>내장 그래픽 | **16GB** | Toshiba Q Series<br>**256GB** | - |
 | **3세대 시스템 Ⅰ**<br>GTX 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core i5-3470**<br>3세대 · Ivy Bridge | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18" alt="NVIDIA"> **GeForce GTX 960**<br>EMTEK | Samsung DDR3<br>**16GB** | SanDisk SSD<br>**120GB** | - |
 | **3세대 시스템 Ⅱ**<br>GTS 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core i5-3470**<br>3세대 · Ivy Bridge | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18" alt="NVIDIA"> **GeForce GTS 450** | **8GB** | Samsung SSD 850 EVO<br>**120GB · MZ-75E120** | - |
-| **PENTIUM SYSTEM**<br>7세대 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Pentium G4600**<br>7세대 · Kaby Lake | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18" alt="NVIDIA"> **GeForce GT 520**<br>내장: Intel HD Graphics 630 | **8GB** | SSD<br>**120GB** | - |
+| **PENTIUM SYSTEM**<br>7세대 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Pentium G4600**<br>7세대 · Kaby Lake | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18" alt="NVIDIA"> **GeForce GT 520**<br>내장: Intel HD Graphics 630 | **8GB** | SSD<br>**120GB** | windows 10 |
 | **AMD ATHLON SYSTEM**<br>AM4 시스템 | <img src="https://cdn.simpleicons.org/amd/ED1C24" width="18" alt="AMD"> **AMD Athlon**<br>세부 모델 미확인 | <img src="https://cdn.simpleicons.org/amd/ED1C24" width="18" alt="AMD"> **Radeon HD Series**<br>세부 모델 미확인 | **4GB** | - | - |
-| **LGA 775 SYSTEM**<br>레트로 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core 2 Quad Q9550**<br>Yorkfield · 4코어 · 2.83GHz | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18" alt="NVIDIA"> **GeForce GT 520** | Samsung DDR3<br>**4GB** | - | - |
+| **LGA 775 SYSTEM**<br>레트로 시스템 | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core 2 Quad Q9550**<br>Yorkfield · 4코어 · 2.83GHz | <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18" alt="NVIDIA"> **GeForce GT 520** | Samsung DDR3<br>**4GB** | 리뷰안 120 ssd | windows 7 |
 
 ### 데스크톱 추가 정보
 
@@ -32,7 +32,7 @@
 
 | 시스템 | CPU | GPU | 메모리 | 저장장치 | 운영체제 |
 | :--- | :--- | :--- | :---: | :--- | :---: |
-| <img src="https://cdn.simpleicons.org/lg/A50034" width="18" alt="LG"> **LG gram 16**<br>16Z90SU-GRF6K | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core Ultra 5 125H**<br>Core Ultra Series 1 · Meteor Lake | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Graphics**<br>내장 그래픽 | DDR5<br>**24GB** | NVMe SSD<br>**256GB** | Windows 11 |
+| <img src="https://cdn.simpleicons.org/lg/A50034" width="18" alt="LG"> **LG gram 16**<br>16Z90SU-GRF6K | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Core Ultra 5 125H**<br>Core Ultra Series 1 · Meteor Lake | <img src="https://cdn.simpleicons.org/intel/0071C5" width="18" alt="Intel"> **Intel Graphics**<br>내장 그래픽 | DDR5<br>**24GB** | NVMe SSD<br>**512GB** | Windows 11 |
 | <img src="https://cdn.simpleicons.org/apple/999999" width="18" alt="Apple"> **MacBook Pro 13-inch**<br>2020 · Touch Bar | <img src="https://cdn.simpleicons.org/apple/999999" width="18" alt="Apple"> **Apple M1**<br>1세대 Apple Silicon | <img src="https://cdn.simpleicons.org/apple/999999" width="18" alt="Apple"> **Apple 8-Core GPU**<br>통합 그래픽 | 통합 메모리<br>**16GB** | SSD<br>**512GB** | macOS |
 
 ---
@@ -50,11 +50,3 @@
 | **AMD GPU** | Radeon RX 480 · Radeon HD Series |
 | **Intel GPU** | Intel Graphics · Intel HD Graphics 4600 · Intel HD Graphics 630 |
 | **Apple GPU** | Apple 8-Core GPU |
-
----
-
-> **확인 필요**
->
-> - Samsung EVO 120GB는 현재 **Samsung SSD 850 EVO 120GB · MZ-75E120**으로 임시 표기했습니다.
-> - AMD Athlon CPU와 Radeon HD Series 그래픽카드는 정확한 모델명이 확인되면 수정해야 합니다.
-> - 운영체제가 확인되지 않은 시스템은 `-`로 표시했습니다.
