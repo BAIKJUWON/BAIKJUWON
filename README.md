@@ -311,17 +311,13 @@ STM32 기반 마이크로컨트롤러 개발
 
 <div align="center">
 
-<img
-  width="58%"
-  src="https://ghstats.dev/api/card?username=BAIKJUWON&theme=github-dark"
-  alt="백주원 GitHub 통계"
->
-
-<img
-  width="40%"
-  src="https://github-readme-streak-stats.herokuapp.com?user=BAIKJUWON&theme=github-dark-blue&hide_border=true&locale=ko"
-  alt="백주원 GitHub 연속 커밋"
->
+<a href="https://github.com/BAIKJUWON">
+  <img
+    width="720"
+    src="https://ghstats.dev/api/card?username=BAIKJUWON&theme=github-dark"
+    alt="백주원 GitHub 활동 통계"
+  >
+</a>
 
 </div>
 
