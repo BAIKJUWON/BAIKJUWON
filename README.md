@@ -311,25 +311,26 @@ STM32 기반 마이크로컨트롤러 개발
 
 <div align="center">
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=BAIKJUWON&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  alt="GitHub 통계"
-/>
+<a href="https://github.com/BAIKJUWON">
+  <img
+    src="https://img.shields.io/badge/GitHub-BAIKJUWON-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="BAIKJUWON GitHub"
+  >
+</a>
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="사용 언어 통계"
-/>
+<a href="https://github.com/BAIKJUWON?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-프로젝트%20보기-0969DA?style=for-the-badge&logo=github"
+    alt="프로젝트 저장소"
+  >
+</a>
 
-<br><br>
-
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BAIKJUWON&theme=github-dark&hide_border=true"
-  alt="GitHub 활동 그래프"
-/>
+<a href="https://github.com/BAIKJUWON?tab=stars">
+  <img
+    src="https://img.shields.io/badge/Stars-관심%20저장소-DFB317?style=for-the-badge&logo=github"
+    alt="GitHub Stars"
+  >
+</a>
 
 </div>
 
