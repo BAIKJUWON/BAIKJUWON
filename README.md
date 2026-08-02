@@ -307,21 +307,29 @@ STM32 기반 마이크로컨트롤러 개발
 
 ---
 
-## 📊 깃허브 활동
+## 📊 GitHub 활동
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BAIKJUWON&theme=github_dark">
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=BAIKJUWON&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub 통계"
+/>
 
-<br>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKJUWON&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="사용 언어 통계"
+/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BAIKJUWON&theme=github_dark">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BAIKJUWON&theme=github_dark">
+<br><br>
 
-<br>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BAIKJUWON&theme=github_dark">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BAIKJUWON&theme=github_dark&utcOffset=9">
+<img
+  width="96%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BAIKJUWON&theme=github-dark&hide_border=true"
+  alt="GitHub 활동 그래프"
+/>
 
 </div>
 
