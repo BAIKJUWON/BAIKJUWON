@@ -311,26 +311,17 @@ STM32 기반 마이크로컨트롤러 개발
 
 <div align="center">
 
-<a href="https://github.com/BAIKJUWON">
-  <img
-    src="https://img.shields.io/badge/GitHub-BAIKJUWON-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="BAIKJUWON GitHub"
-  >
-</a>
+<img
+  width="58%"
+  src="https://ghstats.dev/api/card?username=BAIKJUWON&theme=github-dark"
+  alt="백주원 GitHub 통계"
+>
 
-<a href="https://github.com/BAIKJUWON?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Repositories-프로젝트%20보기-0969DA?style=for-the-badge&logo=github"
-    alt="프로젝트 저장소"
-  >
-</a>
-
-<a href="https://github.com/BAIKJUWON?tab=stars">
-  <img
-    src="https://img.shields.io/badge/Stars-관심%20저장소-DFB317?style=for-the-badge&logo=github"
-    alt="GitHub Stars"
-  >
-</a>
+<img
+  width="40%"
+  src="https://github-readme-streak-stats.herokuapp.com?user=BAIKJUWON&theme=github-dark-blue&hide_border=true&locale=ko"
+  alt="백주원 GitHub 연속 커밋"
+>
 
 </div>
 
